@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modal-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/modal-app/static/js/main.2a26c4ad.chunk.js",
+    "main.js.map": "/modal-app/static/js/main.2a26c4ad.chunk.js.map",
+    "runtime-main.js": "/modal-app/static/js/runtime-main.3182895f.js",
+    "runtime-main.js.map": "/modal-app/static/js/runtime-main.3182895f.js.map",
+    "static/js/2.6ded4814.chunk.js": "/modal-app/static/js/2.6ded4814.chunk.js",
+    "static/js/2.6ded4814.chunk.js.map": "/modal-app/static/js/2.6ded4814.chunk.js.map",
+    "static/js/3.fd045d7a.chunk.js": "/modal-app/static/js/3.fd045d7a.chunk.js",
+    "static/js/3.fd045d7a.chunk.js.map": "/modal-app/static/js/3.fd045d7a.chunk.js.map",
+    "index.html": "/modal-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/modal-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.6ded4814.chunk.js.LICENSE.txt": "/modal-app/static/js/2.6ded4814.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/modal-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3182895f.js",
+    "static/js/2.6ded4814.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.2a26c4ad.chunk.js"
+  ]
+}
